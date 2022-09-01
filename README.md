@@ -13,4 +13,4 @@ README.md
 
 __________________________________________________________________________________________
 
-thank you for reading! :joy:
+thank you for reading! :smile:
