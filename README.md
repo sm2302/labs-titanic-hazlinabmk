@@ -11,6 +11,11 @@
 5. predicted probability of survival by gender and age in First Class
 6. predicted probability of survival of male passengers by passenger class and age
 
+------------------------------------------------------------------------------------------
+
+below is a graph of the predicted probability of survival by gender and age in First Class
+![alt text](survivalgraph.jpg)
+
 __________________________________________________________________________________________
 
 thank you for reading! :smile:
